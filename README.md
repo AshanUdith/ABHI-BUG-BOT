@@ -13,7 +13,7 @@
 <a 
 
 ####  
-ABHI-BUG-BOT Multi Device WhatsApp Bug Bot.
+AVIYA-BUG-BOT Multi Device WhatsApp Bug Bot.
 
 ***
 
